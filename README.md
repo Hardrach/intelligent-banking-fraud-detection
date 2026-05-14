@@ -374,7 +374,7 @@ pip (Python package manager)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/banking-fraud-detection.git
+git clone https://github.com/Hardrach/banking-fraud-detection.git
 cd banking-fraud-detection
 
 # 2. Install dependencies
