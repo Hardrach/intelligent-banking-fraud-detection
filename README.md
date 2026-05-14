@@ -397,32 +397,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 banking-fraud-detection/
-├── 📂 cours/
-│   ├── 📂 AI avancee/          # Advanced AI course materials
-│   │   ├── Chapitre 1.pdf
-│   │   ├── Chapitre 2.pdf
-│   │   ├── Chapitre 2-continuation.pdf
-│   │   └── Chapitre 4.pdf
-│   └── 📂 data/                # Data Science course materials
-│       ├── Chapter4.pdf
-│       ├── Chapter5.pdf
-│       ├── Chapter6.pdf
-│       ├── Chapter8.pdf
-│       └── Chapter10.pdf
-├── 📂 creditcard.csv/
-│   └── creditcard.csv          # Main dataset (150MB)
-├── 📄 creditcard.csv.zip       # Compressed dataset
-├── 📄 guide_rapport_ia_avancee.md
-├── 📄 guide_rapport_science_de_donnees.md
-└── 📄 README.md                # ← You are here
-```
-
----
-
 ## 🎓 Academic Context
 
 | Detail | Information |
@@ -431,7 +405,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 | **Modules** | Science de Données • Intelligence Artificielle Avancée |
 | **Institution** | École Polytechnique d'Agadir |
 | **Academic Year** | 2025–2026 |
-| **Program** | Engineering — Big Data & AI |
 
 ---
 
@@ -441,7 +414,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 
 ### **Yassine Rachid**
 
-🎓 Engineering Student — Big Data & Artificial Intelligence
+🎓 Engineering Student — Cybersecurity
 
 🏫 École Polytechnique d'Agadir
 
